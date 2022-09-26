@@ -1,9 +1,20 @@
 body{
-    background-color: blue;
+    background-color: white;
 }
 #título{
     color: red ;
 }
-.Paragrafo{
-    font-size: 40px;
+.MinhaDiv{
+    background-color: tomato;
+    height: 400px;
+    
+}
+.Segunda{
+    background-color: rgb(0, 139, 23);
+    font-style: italic;
+    height: 100px;
+    width: 100px;
+    
+    
+
 }
